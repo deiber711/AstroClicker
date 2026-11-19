@@ -114,3 +114,5 @@ Si el archivo no existe, la app usa valores por defecto seguros y lo crea a part
 ## Descargo de responsabilidad
 
 Este software está pensado para uso personal y pruebas. El uso de autoclickers puede estar prohibido en algunos juegos, plataformas o servicios en línea — revisa los términos de servicio correspondientes antes de usarlo.
+
+## By Deiber
